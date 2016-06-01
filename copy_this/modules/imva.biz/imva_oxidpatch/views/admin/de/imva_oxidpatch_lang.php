@@ -65,7 +65,7 @@ $aLang = array(
 		
 		// Text
 		'IMVA_OXIDPATCH_FEATUREOFF'						=>	'Dieses Feature ist derzeit nicht freigeschaltet.',
-		'IMVA_OXIDPATCH_MAIN_SETTINGSHINT'				=>	'Öffnen Sie den Bereich &bdquo;Einstellungen&bdquo; in der Modulverwaltung
+		'IMVA_OXIDPATCH_MAIN_SETTINGSHINT'				=>	'Öffnen Sie den Bereich &bdquo;Einstellungen&rdquo; in der Modulverwaltung
 															und aktivieren Sie dort die gewünschten Patches.',
 		'IMVA_OXIDPATCH_MAIN_INTRO'						=>	'<ol>
 																<li>Patch für die Behandlung von Ressourcenpfaden, wenn Modul-Controller via HTTPS
