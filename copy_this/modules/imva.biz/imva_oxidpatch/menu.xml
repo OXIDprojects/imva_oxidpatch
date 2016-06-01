@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+    <OXMENU id="imva_modules_group">
+        <MAINMENU id="imva_oxidpatch" rights="malladmin">
+             <SUBMENU id="imva_oxidpatch_information" cl="imva_oxidpatch_main" rights="malladmin" disableForDemoShop="0" />
+             <SUBMENU id="IMVA_OXIDPATCH_ADMINUPDATE" cl="imva_oxidpatch_adminuserupdate" rights="malladmin" disableForDemoShop="0" />
+        </MAINMENU>
+    </OXMENU>
+</OX>
