@@ -1,4 +1,4 @@
-[{block name='imva_oxidpatch_header'}][{/block}]
+[{block name="imva_oxidpatch_header"}][{/block}]
 
 <h1>[{oxmultilang ident='IMVA_OXIDPATCH_ADMINUPDATE'}]</h1>
 
@@ -25,4 +25,4 @@
 	[{oxmultilang ident='IMVA_OXIDPATCH_MAIN_SETTINGSHINT'}]</div>
 [{/if}]
 
-[{block name='imva_oxidpatch_footer'}][{/block}]
+[{block name="imva_oxidpatch_footer"}][{/block}]
