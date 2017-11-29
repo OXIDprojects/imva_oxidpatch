@@ -3,17 +3,17 @@
 ## Technische Details (Server)
 - For OXID eShop 4.8 and higher.
 
-## Setup
+##Setup
 * Copy the contents of the "copy_this" directory to your shop's root directory (where the "config.inc.php" is located).
 * Log-in to the shop's admin page and go to "Extensions" and select "Patch module for OXID eShop".
 * Click "activate".
 * Go to the "settings" tab and select the desired features there.
 
-## Using the module
+##Using the module
 * Features can be accessed by opening the section "imva.biz modules" in the menu
 * Open "Patches" to find more.
 
-## Important notes
-* This module is inteded to be used by professionals.
-* The module has originally been created for several projects and was released to the publich just now. Please be aware of that. (No warranties.)
+##Important notes
+* This module is intended to be used by professionals.
+* The module has originally been created for several projects and was released to the public just now. Please be aware of that. (No warranties.)
 * In any case, always have a backup!
